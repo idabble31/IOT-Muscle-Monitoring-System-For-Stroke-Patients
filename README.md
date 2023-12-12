@@ -23,6 +23,7 @@ Hardware used in this project:
 - GY-521 MPU6050
 - EMG Muscle Sensor
 - Tactile Push Button
+- 9V Battery
 
 Software used in this project:
 - Arduino IDE
